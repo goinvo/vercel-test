@@ -82,7 +82,7 @@ export default function Home() {
               Work <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              See the health design projects we've worked on.
+              See the health design projects we have worked on.
             </p>
           </a>
 
